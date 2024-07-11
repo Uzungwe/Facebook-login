@@ -1,0 +1,33 @@
+body{
+  background-color:rgb(23,20,50);
+}
+h1{
+  text-align:center;
+  color:blue;
+}
+input{
+  border-sizing:border box;
+  padding:10px;
+  width:100%;
+  backgroud-color:gray;
+  margin-bottom:8px;
+  border-radius:6px;
+}
+p{
+  text-align:center;
+  color:blue;
+}
+.btn{
+  border-sizing:border box;
+  width:100%;
+  padding:10px;
+  background-color:blue;
+  color:white;
+  border-radius:6px;
+  margin-bottom:5px;
+}
+.btnn{
+  padding:10px;
+  width:100%;
+  margin-top:20px;
+}
